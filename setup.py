@@ -11,10 +11,10 @@ extras = {
 
 setup(
     name="target-bigquery",
-    version="0.11.0",
+    version="0.12.0",
     description="Singer.io target for writing data to Google BigQuery",
-    author="Adswerve",
-    url="https://github.com/adswerve/target-bigquery",
+    author="IndeVEts",
+    url="https://github.com/indevets/target-bigquery",
     classifiers=["Programming Language :: Python :: 3 :: Only"],
     packages=["target_bigquery"],
     install_requires=install_requires,
